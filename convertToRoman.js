@@ -54,4 +54,3 @@ function convertToRoman(num) {
   console.log(convertToRoman(1023)); // "MXXIII"
   console.log(convertToRoman(2014)); // "MMXIV"
   console.log(convertToRoman(3999)); // "MMMCMXCIX"
-  

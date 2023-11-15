@@ -20,4 +20,3 @@ function palindrome(str) {
   console.log(palindrome("1 eye for of 1 eye.")); // false
   console.log(palindrome("0_0 (: /\\ :) 0-0")); // true
   console.log(palindrome("five|\\_/|four")); // false
-  

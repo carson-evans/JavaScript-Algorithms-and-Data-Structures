@@ -33,4 +33,3 @@ function telephoneCheck(str) {
   console.log(telephoneCheck("(555)5(55?)-5555")); // false
   console.log(telephoneCheck("55 55-55-555-5")); // false
   console.log(telephoneCheck("11 555-555-5555")); // false
-  
